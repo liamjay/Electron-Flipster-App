@@ -1,6 +1,6 @@
 # Electron Flipster Application
 
-Basic flipster application using Electron based off the [tutorial](http://tutorialzine.com/2015/12/creating-your-first-desktop-app-with-html-js-and-electron/)
+Basic flipster application using Electron based off the following [tutorial](http://tutorialzine.com/2015/12/creating-your-first-desktop-app-with-html-js-and-electron/)
 
 ## Installation
 
