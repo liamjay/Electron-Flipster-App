@@ -1,0 +1,17 @@
+{
+  "name": "flipster-app",
+  "version": "1.0.0",
+  "description": "My first electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Liam Jay",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  },
+  "dependencies": {
+    "pretty-bytes": "^4.0.2"
+  }
+}
